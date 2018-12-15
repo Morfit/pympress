@@ -15,34 +15,34 @@ msgid "(and optionally seconds)"
 msgstr ""
 
 msgid "(paused)"
-msgstr ""
+msgstr "（暂停中）"
 
 msgid "Adjust alignment of slides in projector screen"
-msgstr ""
+msgstr "调整投影依屏幕的对齐"
 
 msgid "All files"
-msgstr ""
+msgstr "所有文件"
 
 msgid "Annotations"
-msgstr ""
+msgstr "注释"
 
 msgid "Big buttons"
-msgstr ""
+msgstr "大按钮"
 
 msgid "Clock"
-msgstr ""
+msgstr "时钟"
 
 msgid "Content and presenter window must not be on the same monitor if you start full screen!"
-msgstr ""
+msgstr "如果你开启全屏，演讲内容和演讲者窗口不能在同一显示器上！"
 
 msgid "Content blanked"
-msgstr ""
+msgstr "演讲内容空白化"
 
 msgid "Content fullscreen"
-msgstr ""
+msgstr "演讲内容全屏化"
 
 msgid "Contributors:"
-msgstr ""
+msgstr "贡献者："
 
 msgid "Could not disable DPMS screen blanking: got status "
 msgstr ""
@@ -51,13 +51,13 @@ msgid "Could not enable DPMS screen blanking: got status "
 msgstr ""
 
 msgid "Could not find the file \"{}\""
-msgstr ""
+msgstr "不能找到文件 \"{}\""
 
 msgid "Could not set screensaver status: got status "
 msgstr ""
 
 msgid "Current slide"
-msgstr ""
+msgstr "当前幻灯片"
 
 msgid "ERROR Unknown widget to start fullscreen: {}"
 msgstr ""
@@ -75,10 +75,10 @@ msgid "Error: access denied when trying to access screen saver settings in regis
 msgstr ""
 
 msgid "GtkImage gif player"
-msgstr ""
+msgstr "GtkImage gif 播放器"
 
 msgid "Highlight"
-msgstr ""
+msgstr "高亮"
 
 msgid "Invalid log level \"{}\", try one of {}"
 msgstr ""
@@ -90,109 +90,112 @@ msgid "Media support uses {}."
 msgstr ""
 
 msgid "Next slide"
-msgstr ""
+msgstr "下一张幻灯片"
 
 msgid "No action was defined for this link"
-msgstr ""
+msgstr "此链接没有定义动作"
 
 msgid ""
 "No file selected!\n"
 "\n"
 "You can specify the PDF file to open on the command line if you don't want to use the \"Open File\" dialog."
 msgstr ""
+"没有选中的文件！\n"
+"\n"
+"如果你不想用“打开文件”对话框，你可以用命令行指定要打开的 PDF 文件。"
 
 msgid "Not starting content or presenter window full screen because there is only one monitor"
-msgstr ""
+msgstr "没有全屏显示地启动演讲内容或演讲者窗口，因为只有一个显示器"
 
 msgid "Notes"
-msgstr ""
+msgstr "笔记"
 
 msgid "Open _Recent"
-msgstr ""
+msgstr "打开 _最近"
 
 msgid "Open..."
-msgstr ""
+msgstr "打开..."
 
 msgid "Options:"
-msgstr ""
+msgstr "选项："
 
 msgid "PDF files"
-msgstr ""
+msgstr "PDF 文件"
 
 msgid "Pause"
-msgstr ""
+msgstr "暂停"
 
 msgid "Play"
-msgstr ""
+msgstr "播放"
 
 msgid "Pointer"
-msgstr ""
+msgstr "指针"
 
 msgid "Presenter fullscreen"
-msgstr ""
+msgstr "演讲者全屏"
 
 msgid "Pympress Content"
-msgstr ""
+msgstr "Pympress 演讲内容"
 
 msgid "Pympress Presenter"
-msgstr ""
+msgstr "Pympress 演讲者"
 
 msgid "Pympress can not extract attached file"
-msgstr ""
+msgstr "Pympress 不能提取附件"
 
 msgid "Pympress can not extract embedded media"
-msgstr ""
+msgstr "Pympress 不能提取内嵌媒体"
 
 msgid "Pympress can not find file "
-msgstr ""
+msgstr "Pympress 不能找到文件"
 
 msgid "Pympress can not interpret annotation of type:"
-msgstr ""
+msgstr "Pympress 不能解析注释类型"
 
 msgid "Pympress does not recognize link type \"{}\""
-msgstr ""
+msgstr "Pympress 不能识别链接类型 \"{}\""
 
 msgid "Pympress does not recognize link type \"{}\" to \"{}\""
-msgstr ""
+msgstr "Pympress 不能识别链接类型 \"{}\" 为 \"{}\""
 
 msgid "Pympress does not yet support link type \"{}\""
-msgstr ""
+msgstr "Pympress 不能支持链接类型 \"{}\""
 
 msgid "Pympress does not yet support link type \"{}\" to \"{}\""
-msgstr ""
+msgstr "Pympress 不能支持链接类型 \"{}\" 为 \"{}\""
 
 msgid "Python version {}"
 msgstr ""
 
 msgid "Resources are loaded from "
-msgstr ""
+msgstr "资源装载自"
 
 msgid "Set level of verbosity in log file:"
-msgstr ""
+msgstr "设定日志文件的冗长程度："
 
 msgid "Set talk _Time"
-msgstr ""
+msgstr "设定演讲 _时长"
 
 msgid "Slide number"
-msgstr ""
+msgstr "幻灯片编号"
 
 msgid "Some preferences are saved in "
-msgstr ""
+msgstr "部分偏好设置保存在"
 
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 msgid "The estimated (intended) talk time in minutes"
-msgstr ""
+msgstr "预计演讲时长（分钟）"
 
 msgid "This help"
-msgstr ""
+msgstr "这个帮助"
 
 msgid "Time elapsed"
-msgstr ""
+msgstr "已进行时间"
 
 msgid "Time estimation"
-msgstr ""
+msgstr "时间估计"
 
 msgid "Unknow widget {} to be fullscreened, aborting."
 msgstr ""
@@ -231,103 +234,103 @@ msgid "Warning: video support is disabled"
 msgstr ""
 
 msgid "_About"
-msgstr ""
+msgstr "_关于"
 
 msgid "_Align content"
-msgstr ""
+msgstr "_对齐内容"
 
 msgid "_Annotations"
-msgstr ""
+msgstr "_注释"
 
 msgid "_Blank screen"
-msgstr ""
+msgstr "_空白屏幕"
 
 msgid "_Blue"
-msgstr ""
+msgstr "_蓝色"
 
 msgid "_Close File"
-msgstr ""
+msgstr "_关闭文件"
 
 msgid "_Disabled"
-msgstr ""
+msgstr "_失效的"
 
 msgid "_File"
-msgstr ""
+msgstr "_文件"
 
 msgid "_First"
-msgstr ""
+msgstr "_第一个"
 
 msgid "_Fullscreen"
-msgstr ""
+msgstr "_全屏"
 
 msgid "_Go to..."
-msgstr ""
+msgstr "_前往..."
 
 msgid "_Green"
-msgstr ""
+msgstr "_绿色"
 
 msgid "_Help"
-msgstr ""
+msgstr "_帮助"
 
 msgid "_Highlight"
-msgstr ""
+msgstr "_高亮"
 
 msgid "_Last"
-msgstr ""
+msgstr "_最后一个"
 
 msgid "_Navigation"
-msgstr ""
+msgstr "_导航"
 
 msgid "_Next"
-msgstr ""
+msgstr "_下一个"
 
 msgid "_Notes mode"
-msgstr ""
+msgstr "_笔记模式"
 
 msgid "_Open"
-msgstr ""
+msgstr "_打开"
 
 msgid "_Pause timer"
-msgstr ""
+msgstr "_暂停计时器"
 
 msgid "_Presentation"
-msgstr ""
+msgstr "_演示"
 
 msgid "_Previous"
-msgstr ""
+msgstr "_之前的"
 
 msgid "_Quit"
-msgstr ""
+msgstr "_退出"
 
 msgid "_Red"
-msgstr ""
+msgstr "_红色"
 
 msgid "_Reset timer"
-msgstr ""
+msgstr "_重置计时器"
 
 msgid "_Starting Configuration"
-msgstr ""
+msgstr "_启动设置"
 
 msgid "_Swap screens"
-msgstr ""
+msgstr "_交换屏幕"
 
 msgid "_Undo zoom"
-msgstr ""
+msgstr "_取消放大"
 
 msgid "_Zoom in"
-msgstr ""
+msgstr "_放大"
 
 msgid "access denied when trying to access screen saver settings in registry!"
 msgstr ""
 
 msgid "no action defined for this link!"
-msgstr ""
+msgstr "此链接没有定义动作"
 
 msgid "pympress is a little PDF reader written in Python using Poppler for PDF rendering and GTK for the GUI.\n"
-msgstr ""
+msgstr "pmypress 是用 Python 写的小小 PDF 阅读器，使用 Poppler 渲染 PDF，使用 GTK 制作 GUI。"
 
 msgid "video support is disabled"
-msgstr ""
+msgstr "视频支持已被关闭"
 
 msgid "{}, {}, {}, {}, or {}"
 msgstr ""
